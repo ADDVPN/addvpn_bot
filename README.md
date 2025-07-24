@@ -2,7 +2,7 @@
 
 САЙТ: HTTPS://ADD-VPN.COM
 
-VPN БОТ В ТГ: @addvpn_bot
+VPN БОТ В ТГ: https://t.me/addvpn_bot
 
 КУПИТЬ БОТА: https://add-vpn.com/gotovyj-biznes/
 
